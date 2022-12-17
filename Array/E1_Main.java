@@ -10,9 +10,9 @@ public class E1_Main
     {
         // Array variable.
         String[] array = {
-                "This is the first element.",
-                "This is the second element.",
-                "This is the third element."
+                "Azraiie",
+                "24",
+                "Coding"
         };
 
         // Call the addList() method to store the array in the ArrayList.
@@ -64,9 +64,9 @@ public class E1_Main
         else
         {
             // Update each element in the array.
-            list[0] = "First element updated.";
-            list[1] = "Second element updated.";
-            list[2] = "Third element updated.";
+            list[0] = "Sushii";
+            list[1] = "27";
+            list[2] = "Programming";
 
             // Use for() loop to print the updated elements.
             for (String element : list)
